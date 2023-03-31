@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cristhian Ortega
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning about MERN stack
+- 👀 I’m interested in master design patterns, microservices, AWS, and scalable solutions development.
+- 🌱 I’m currently learning about the MERN stack
 - 💞️ I’m looking to collaborate on projects abroad
 - 📫 How to reach me: https://www.linkedin.com/in/cristhianortega22/
 
